@@ -1,0 +1,9 @@
+langchain
+openai
+qdrant-client
+pdfplumber
+pymupdf
+fastapi
+uvicorn
+tqdm
+python-dotenv
