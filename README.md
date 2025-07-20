@@ -2,6 +2,8 @@
 
 **NeuraDocs** is an API service that answers technical questions using your company's internal PDF documentation. It leverages Retrieval-Augmented Generation (RAG) to ground responses in your own knowledge base, enabling fast, accurate, and explainable answers.
 
+## [See NeuraDocs Code Repo](.)
+
 ---
 
 ## 🚀 Key Features
