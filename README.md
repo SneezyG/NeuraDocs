@@ -1,4 +1,4 @@
-# 🧠 NeuraDocs – A Rag AI-powered System that answer questions using internal documentation.
+# 🧠 NeuraDocs – An AI-powered Rag System that answer questions using internal documentation.
 
 **NeuraDocs** is an intelligent system that answers technical questions using your company's internal PDF documentation. It leverages Retrieval-Augmented Generation (RAG) to ground responses in your own knowledge base, enabling fast, accurate, and explainable answers.
 
