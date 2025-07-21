@@ -9,10 +9,19 @@
 ## 🚀 Key Features
 
 - 🔍 Semantic search over internal PDFs using vector embeddings
-- 🤖 GPT-powered answers with citations from your actual docs
+- 🤖 AI-powered answers with citations from your actual docs
 - 📄 Automatic PDF parsing, chunking, and indexing
 - 🧠 Retrieval-Augmented Generation (RAG) pipeline
 - 🧾 REST API for internal use or integration with tools/UIs
+
+---
+
+## 📎 Example Use Cases
+
+- Internal dev documentation Q&A – Quickly answers technical questions by extracting insights from internal developer docs.
+- AI-powered engineering assistant – Provides intelligent, context-aware support for engineering tasks using internal knowledge.
+- Knowledge base augmentation – Turns static documentation into an interactive, searchable AI-powered resource.
+- Automated onboarding and support tools – Delivers instant answers to onboarding and support queries using internal content.
 
 ---
 
@@ -52,9 +61,9 @@
 
 ---
 
-## 📎 Example Use Cases
 
-- Internal dev documentation Q&A
-- AI-powered engineering assistant
-- Knowledge base augmentation
-- Automated onboarding and support tools
+
+
+
+
+
