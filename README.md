@@ -1,6 +1,6 @@
-# 🧠 NeuraDocs – A Rag AI-powered backend that answer questions using internal documentation.
+# 🧠 NeuraDocs – A Rag AI-powered System that answer questions using internal documentation.
 
-**NeuraDocs** is an API service that answers technical questions using your company's internal PDF documentation. It leverages Retrieval-Augmented Generation (RAG) to ground responses in your own knowledge base, enabling fast, accurate, and explainable answers.
+**NeuraDocs** is an intelligent system that answers technical questions using your company's internal PDF documentation. It leverages Retrieval-Augmented Generation (RAG) to ground responses in your own knowledge base, enabling fast, accurate, and explainable answers.
 
 ## [See NeuraDocs Code Repo](https://github.com/SneezyG/NeuraDocs)
 
@@ -18,10 +18,10 @@
 
 ## 📎 Example Use Cases
 
-- Internal dev documentation Q&A – Quickly answers technical questions by extracting insights from internal developer docs.
-- AI-powered engineering assistant – Provides intelligent, context-aware support for engineering tasks using internal knowledge.
-- Knowledge base augmentation – Turns static documentation into an interactive, searchable AI-powered resource.
-- Automated onboarding and support tools – Delivers instant answers to onboarding and support queries using internal content.
+- *Internal dev documentation Q&A* – Quickly answers technical questions by extracting insights from internal developer docs.
+- *AI-powered engineering assistant* – Provides intelligent, context-aware support for engineering tasks using internal knowledge.
+- *Knowledge base augmentation* – Turns static documentation into an interactive, searchable AI-powered resource.
+- *Automated onboarding and support tools* – Delivers instant answers to onboarding and support queries using internal content.
 
 ---
 
