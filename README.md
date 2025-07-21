@@ -18,10 +18,10 @@
 
 ## 📎 Example Use Cases
 
-- *Internal dev documentation Q&A* – Quickly answers technical questions by extracting insights from internal developer docs.
-- *AI-powered engineering assistant* – Provides intelligent, context-aware support for engineering tasks using internal knowledge.
-- *Knowledge base augmentation* – Turns static documentation into an interactive, searchable AI-powered resource.
-- *Automated onboarding and support tools* – Delivers instant answers to onboarding and support queries using internal content.
+- **Internal dev documentation Q&A** – Quickly answers technical questions by extracting insights from internal developer docs.
+- **AI-powered engineering assistant** – Provides intelligent, context-aware support for engineering tasks using internal knowledge.
+- **Knowledge base augmentation** – Turns static documentation into an interactive, searchable AI-powered resource.
+- **Automated onboarding and support tools** – Delivers instant answers to onboarding and support queries using internal content.
 
 ---
 
